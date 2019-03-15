@@ -1,7 +1,10 @@
 # rj-app
 
-> A Vue.js project
+vue vux
+
 [预览](https://besswang.github.io/rj-app/#/)
+
+![](./show/show1.jpg)
 
 ## Build Setup
 
