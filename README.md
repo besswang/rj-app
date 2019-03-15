@@ -4,7 +4,9 @@ vue vux
 
 [预览](https://besswang.github.io/rj-app/#/)
 
-![](./show/show1.jpg)
+效果图：
+
+![](./show/show1.jpg)![](./show/show2.jpg)![](./show/show3.jpg)![](./show/show4.jpg)
 
 ## Build Setup
 
